@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using Mirror;
 using UnityEngine;
 
-public class PlayerMovement : NetworkBehaviour
+public class PlayerMovement : MonoBehaviour
 {
       //Input
       private float _moveHorizontal;
@@ -37,7 +37,6 @@ public class PlayerMovement : NetworkBehaviour
           _audioSource = GetComponent<AudioSource>();
       }
   
-      [Client]
       void Update()
       {
           _moveHorizontal = Input.GetAxis("Horizontal");
@@ -89,7 +88,6 @@ public class PlayerMovement : NetworkBehaviour
           }
       }
 
-      [Client]
       private void FixedUpdate()
       {
             _rb2d.AddForce (_movement * moveSpeed);

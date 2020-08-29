@@ -20,25 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f003586-b7fb-4535-b5cd-208abb2015f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MultiplayerTest/.idea/.idea.MultiplayerTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MultiplayerTest/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MultiplayerTest/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MultiplayerTest/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MultiplayerTest/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MultiplayerTest/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MultiplayerTest/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MultiplayerTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MultiplayerTest/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MultiplayerTest/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefab/Player 0.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefab/Player 0.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/PlayerMovement.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Script/PlayerMovement.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Player 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Player 1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Player.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Player.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/PlayerMovement.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598636042676</updated>
-      <workItem from="1598636058417" duration="1015000" />
+      <workItem from="1598636058417" duration="1344000" />
     </task>
     <servers />
   </component>
