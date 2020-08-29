@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f003586-b7fb-4535-b5cd-208abb2015f9" name="Default Changelist" comment="">
+    <list default="true" id="7f003586-b7fb-4535-b5cd-208abb2015f9" name="Default Changelist" comment="Set PlayerMovement class type to monobehaviour">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MultiplayerTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MultiplayerTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Player 0.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Player 0.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/PlayerMovement.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +35,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Script/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Editor/NetworkScenePostProcess.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -47,6 +51,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -78,8 +83,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598636042676</updated>
-      <workItem from="1598636058417" duration="1344000" />
+      <workItem from="1598636058417" duration="2803000" />
     </task>
+    <task id="LOCAL-00001" summary="Set PlayerMovement class type to monobehaviour">
+      <created>1598688353122</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598688353122</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,5 +113,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Set PlayerMovement class type to monobehaviour" />
+    <option name="LAST_COMMIT_MESSAGE" value="Set PlayerMovement class type to monobehaviour" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1598688369657">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1598688369657" />
+    <state x="503" y="248" key="search.everywhere.popup" timestamp="1598696335750">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="503" y="248" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1598696335750" />
   </component>
 </project>
